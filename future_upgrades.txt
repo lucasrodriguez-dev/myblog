@@ -1,0 +1,16 @@
++error al editar artículo: si no se cambia ningún valor, da error.
++cambiar diseño de botones
++cambiar paleta de colores
++agregar botón para cambiar entre modo oscuro y modo claro
++mejorar diseño de Create.jsx y Edit.jsx: 
+	-que se vea la imagen del artículo (con 70% de opacidad)
+	-al cargar nueva imagen que se muestre en pantalla
++utilizar un estado global para los artículos
++actualizar estado de articulos de sidebar al crear, al editar y al eliminar artículos
++unir Articles.jsx y Search.jsx mediante una prop
++al buscar algo vacío que te devuelva todos los artículos
++comunicar mejor los mensajes de error en el frontend
++unir Create.jsx y Edit.jsx mediante una prop
++refactorizar métodos usados en varios componentes, de modo que no se repita código
++borrar console.log innecesarios
++hacer responsive
